@@ -10,7 +10,7 @@ A curated list of BRIK-64 resources, tools, and projects.
 |----------|-------------|
 | [brik64.dev](https://brik64.dev) | Main website |
 | [docs.brik64.dev](https://docs.brik64.dev) | Full documentation |
-| [brik64-dist-releases](https://github.com/brik64/brik64-dist-releases) | Compiler binaries |
+| [Install brikc](https://brik64.dev/install) | Compiler binaries (install via CLI) |
 | [brik64-community-examples](https://github.com/brik64/brik64-community-examples) | Example PCD programs |
 | [brik64-tools-skills](https://github.com/brik64/brik64-tools-skills) | AI agent skills |
 
